@@ -26,7 +26,7 @@ float xe=280;
 
 float ye=260; 
 
-float[] x= {285, 250, 250, 250, 200, 200}; // Created an array. To Moves the ship Left-Right Horizontally.
+float[] x= {285, 250, 250, 250, 200, 200}; // Created an array. To Move the ship Left-Right Horizontally.
 
 float[] y= {260, 230, 290, 275, 275, 230}; // To Move the ship UP-Down Vertically.
 
