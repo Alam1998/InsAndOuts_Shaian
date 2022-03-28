@@ -44,7 +44,7 @@ PImage img;
 void setup() {
   size(840, 720);
   
-  img = loadImage("Toyokawa.jpg");
+  img = loadImage("space.jpg");
   
   stroke(255);
     smooth();
