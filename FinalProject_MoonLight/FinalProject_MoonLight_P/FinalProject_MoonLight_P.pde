@@ -1,6 +1,6 @@
 /*
 
-// Final Project The MoonNight an interactive showpiece. 
+// Final Project The MoonLight an interactive showpiece. 
 
 // Added a background image.
 
