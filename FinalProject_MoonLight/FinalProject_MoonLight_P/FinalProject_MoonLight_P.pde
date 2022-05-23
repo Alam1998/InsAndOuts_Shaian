@@ -30,7 +30,6 @@
  
 // The processing setup will provide the same visual reaction just like the arduino setup. 
   
-
 */
 
 int val=0; //to send over Serial

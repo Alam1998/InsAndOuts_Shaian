@@ -1,5 +1,4 @@
 
-
 #include <Servo.h>  //include Arduino Servo library
 
 Servo servo;  //creates new Servo object called servo
